@@ -1,4 +1,3 @@
-```markdown
 # Brazilian E-Commerce Data Engineering Project
 
 ## Project Overview
